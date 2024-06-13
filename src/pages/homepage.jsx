@@ -155,12 +155,12 @@ const Homepage = () => {
 								/>
 							</a>
 							<a
-								href={`mailto:${INFO.main.email}`}
+								href={`mailto:${INFO.socials.linkedin}`}
 								target="_blank"
 								rel="noreferrer"
 							>
 								<FontAwesomeIcon
-									icon={faMailBulk}
+									icon={faLinkedin}
 									className="homepage-social-icon"
 								/>
 							</a>
