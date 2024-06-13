@@ -11,6 +11,7 @@ const INFO = {
 		github: "https://github.com/promo-13/",
 		linkedin: "https://linkedin.com/in/promodhrp",
 		instagram: "https://instagram.com/__gamer_04",
+		linkedin: "https://www.linkedin.com/in/promodhrp/",
 		stackoverflow: "https://meta.stackexchange.com/users/preferences/1525891",
 	},
 
