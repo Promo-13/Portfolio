@@ -56,7 +56,7 @@ const INFO = {
 				"This is just an Interior design website created inorder to display my work on HTML,CSS and JS in my first year of college.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "Github Link",
-			link: "https://github.com",
+			link: "https://github.com/Promo-13/Interior-Design",
 		},
 
 		{
